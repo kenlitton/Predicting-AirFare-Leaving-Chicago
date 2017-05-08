@@ -1,4 +1,4 @@
-Estimating Flight Ticket Price Using Linear Regression
+## Estimating Flight Ticket Price Using Linear Regression
 
 In this project, I leveraged data provided by the Bureau of Transportation Statistics to predict the price of airline tickets for flights leaving O'Hare and Midway (the two primary airports in Chicago).
 
